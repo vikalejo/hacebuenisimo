@@ -1,0 +1,2 @@
+I"<p>This is the Blog index page, listing each post with an automatically generated post excerpt. It’s a normal Jekyll page but uses the <code class="language-plaintext highlighter-rouge">_layouts/blog.html</code> template to output the blog’s posts after the page content.</p>
+:ET
