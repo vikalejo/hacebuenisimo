@@ -20,9 +20,9 @@ Si, obviamente Víctor hace mas cosas, tiene una preciosa hija, le encanta el de
 
 No se trata de un blog especializado, si no de diferentes pensamientos o recetas que el autor desea comunicar y abrir al espacio del debate. 
 
-Hay días que hace buenísimo para cocinar publicar una receta, y otros para comentar el último tema del curro con una caña en la manos.ddfd. 
+Hay días que hace buenísimo para cocinar publicar una receta, y otros para comentar el último tema del curro con una caña en la manos.
 
-Ya hay muchos blogs especializados en ambos temas, aquí encontrarás un espacio personal, donde Víctor reflexiona y comparte su última receta por ejemplo. 
+Ya hay muchos blogs especializados en ambos temas, aquí encontrarás un espacio con opinión personal. Aquí seguirás una perspectiva peculiarmas 
 
 Tras varios años en los que comnpañeros y amigos han estado empujando a la creación de este blog, por fin tenemos aquí, la particular perspectiva de Alejo.
 
