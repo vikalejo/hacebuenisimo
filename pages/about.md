@@ -8,7 +8,7 @@ permalink: /about
 section: about
 intro_paragraph: "**hacebuenisimo.com** esta escrito por **Víctor Alejo**. Se
   trata de una colección de posts basados en diferentes motivaciones, pero sobre
-  todo; su rol como Engineering manager y la cocina."
+  todo en su rol como Engineering Manager y la cocina."
 ---
 ### El blog
 
