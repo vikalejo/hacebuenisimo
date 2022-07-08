@@ -44,19 +44,19 @@ Victor esta recién estrenado como padre, y esta loquito por su hija.
 
 Tras una larga trayectoria en el mundo del desarrollo del software, Victor Alejo inició su camino en el rol de Engineering Manager.
 
-Este cambio supone un camino muy distinto, y un aprendizaje de ideas, sobre un paradigma distinto hasta entonces en su profesión. 
+Este cambio supone un nuevo aprendizaje de ideas, sobre un paradigma distinto hasta entonces en su profesión. 
 
 En cada empresa, cada rol puede significar algo distinto. Encontrar tu sitio, realizando la tarea más útil y en la que mas encajas es sin duda algo complejo. 
 
-Hay muchísimos aspectos a descubrir y de aprender como manager dentro del mundo del desarrollo del software. Los directores, jefes de equipo vienen con una mochila de prejuicios de los viejos tiempos. 
+Hay muchísimos aspectos a descubrir como manager dentro del mundo del desarrollo del software. Los directores, jefes de equipo vienen con una mochila de prejuicios de los viejos tiempos que no . 
 
-Gracias a las nuevas corrientes, sobretodo de Google, en el caso de este rol, la dirección de equipos han ido adoptando un trabajo mas completo y mas complejo, y tambien mejor valorado.
+Gracias a las nuevas corrientes, sobretodo de Google, en el caso de este rol; la dirección de equipos han ido adoptando un trabajo mas completo y mas complejo, y tambien mejor valorado.
 
 #### La cocina
 
 Hace un día buenísimo para estar en la cocina.  Cuando leas esto, puede que pienses que no hace tan bueno allá donde estes, pero si lo piensas bien, lo mismo si que hace un día buenísimo :D 
 
-A veces porque no queda mas remedio, o a veces porque nos apetece, cocinar es sin duda una actividad que nos reconecta con nosotros como humanos.
+A veces porque no queda mas remedio, o a veces porque nos apetece, cocinar es sin duda una actividad que nos reconecta con nosotros mismos como humanos. Como dice Michael Pollan, cocinar nos convirtió en lo que somos.
 
 Las recetas publicadas son basadas en ideas de varios chefs y libros de cocina y tambien descubirmientos de recetas tradicionales, ya sean de su madre como de cualquier cultura. \
 Entre tantas y tantas fuentes, de tantos chefs profesionales y aficionados, Víctor trata de seleccionar y compartir aquellas recetas que le han gustado por alguna peculiaridad especial. 
