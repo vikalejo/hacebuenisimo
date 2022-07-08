@@ -6,39 +6,61 @@ meta_description: |
   output in the browser or in the generated file _site/about.html.
 permalink: /about
 section: about
-intro_paragraph: "**hacebuenisimo.com** esta escrito por **Víctor Alejo**. Se
-  trata de una colección de posts basados en diferentes motivaciones, pero sobre
-  todo en su rol como Engineering Manager y la cocina."
+intro_paragraph: >-
+  **hacebuenisimo.com** esta escrito por **Víctor Alejo**. Se trata de una
+  colección de pensamientos, recursos e ideas basados en diferentes motivaciones
+  personales. \
+
+  Victor invierte su tiempo trabajando como Engineering Manager, cocinando, pasando el tiempo con su hija y amigos, y pensando mucho en pequeñas cosas.
 ---
 ### El blog
 
-Es normal preguntarse porque mezclar temas tan distintos en el mismo blog. Principalmente porque se trata de un blog personal, en el que Víctor tiene la necesidad de contar y hacer público sus percepciones, reflexiones y recetas en  las actividades en las que consume gran parte de sus tiempo diario; el trabajo y la cocina. 
+Este es un blog personal. No se trata de un blog especializado en un tema, si no de diferentes pensamientos o ideas que el autor desea comunicar y abrir al espacio del debate.  
 
 Manterner un solo lugar para escribir, simplifica el proceso.
 
-Si, obviamente Víctor hace mas cosas, tiene una preciosa hija, le encanta el deporte, la música, la escritura, etc... pero no podemos saber ni escribir de todo :D 
+Hay días que hace buenísimo para cocinar y publicar una receta, y otros para dedicar tiempo a la filosofía, y otros para compartir nuevos aprendizajes laborales por ejemplo. 
 
-No se trata de un blog especializado, si no de diferentes pensamientos o recetas que el autor desea comunicar y abrir al espacio del debate. 
+Ya existen multitud de blogs especializados para cada cosa, bien mantenidos y consolidados.  Aquí encontrarás un espacio con opinión personal. Aquí seguirás una perspectiva peculiar. 
 
-Hay días que hace buenísimo para cocinar publicar una receta, y otros para comentar el último tema del curro con una caña en la manos.
+Los temas centrales pasarán desde pensamientos, recursos o ideas sobre el arte de la dirección de equipos de ingeniería del software, como filosofía hasta temas de cocina y recetas.  
 
-Ya hay muchos blogs especializados en ambos temas, aquí encontrarás un espacio con opinión personal. Aquí seguirás una perspectiva peculiarmas 
+No entraremos a debatir temas políticos por lo general, ya tenemos los periódicos de noticias. 
 
-Tras varios años en los que comnpañeros y amigos han estado empujando a la creación de este blog, por fin tenemos aquí, la particular perspectiva de Alejo.
+Si crees que estas dentro del mismo círuclo de intereses, no lo dudes y apoya este blog subscribiéndote :) 
+
+#### Victor Alejo 
+
+Si no tuviese que trabajar, tampoco tendria el suficiente tiempo para hacer todas las cosas que le gustaría. 
+
+Ya que tiene que trabajar, intenta disfrutar con ello :) . 
+
+Victor es un apasionado de las cosas sencillas;  La cocina es una de sus pasiones que practica casi a diario. \
+Otra de sus pasiones es la música. Se define como melómano que disfruta cantando.  \
+Completa su tiempo con el deporte. Se mantiene haciendo ejercicio en casa y completa su rutina corriendo por la montaña un par de veces por semana. \
+Victor esta recién estrenado como padre, y esta loquito por su hija.  
 
 #### The engineering manager
 
-Tras una larga trayectoria en el mundo del desarrollo del software, Victor Alejo cambio su camino al de Engineering Manager.
+Tras una larga trayectoria en el mundo del desarrollo del software, Victor Alejo inició su camino en el rol de Engineering Manager.
 
 Este cambio supone un camino muy distinto, y un aprendizaje de ideas, sobre un paradigma distinto hasta entonces en su profesión. 
 
+En cada empresa, cada rol puede significar algo distinto. Encontrar tu sitio, realizando la tarea más útil y en la que mas encajas es sin duda algo complejo. 
+
+Hay muchísimos aspectos a descubrir y de aprender como manager dentro del mundo del desarrollo del software. Los directores, jefes de equipo vienen con una mochila de prejuicios de los viejos tiempos. 
+
+Gracias a las nuevas corrientes, sobretodo de Google, en el caso de este rol, la dirección de equipos han ido adoptando un trabajo mas completo y mas complejo, y tambien mejor valorado.
+
 #### La cocina
 
-Hace un día buenísimo para estar en la cocina.  A veces porque no queda mas remedio, o a veces porque nos apetece, cocinar es sin duda una actividad que nos reconecta con nosotros como humanos.
+Hace un día buenísimo para estar en la cocina.  Cuando leas esto, puede que pienses que no hace tan bueno allá donde estes, pero si lo piensas bien, lo mismo si que hace un día buenísimo :D 
 
-Las recetas publicadas son basadas en ideas de varios chefs y libros de cocina. \
+A veces porque no queda mas remedio, o a veces porque nos apetece, cocinar es sin duda una actividad que nos reconecta con nosotros como humanos.
+
+Las recetas publicadas son basadas en ideas de varios chefs y libros de cocina y tambien descubirmientos de recetas tradicionales, ya sean de su madre como de cualquier cultura. \
 Entre tantas y tantas fuentes, de tantos chefs profesionales y aficionados, Víctor trata de seleccionar y compartir aquellas recetas que le han gustado por alguna peculiaridad especial. 
 
-**hace buenísimo** es un blog sencillo, con un claro enfoque de sencillez y optimismo, en el que leerás pensamientos e ideas del autor sobre el área del desarrollo de software y la cocina. Asi de raro, y así de claro. 
+**hace buenísimo** es un blog sencillo, con un claro enfoque hacia la sencillez y el optimismo.  Siempre hay algún sitio donde hace buenísimo, no importa que dia :) 
 
 ¡Bienvenido! y ¡gracias por leer!
