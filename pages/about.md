@@ -11,11 +11,15 @@ intro_paragraph: >-
   colección de pensamientos, recursos e ideas basados en diferentes motivaciones
   personales. \
 
-  Victor invierte su tiempo trabajando como Engineering Manager, cocinando, pasando el tiempo con su hija y amigos, y pensando mucho en pequeñas cosas.
+  Victor invierte su tiempo en su trabajo como Engineering Manager en HomeServe, como cheff amateur todos los días, pasando el tiempo con su hija, familia y amigos, escuchando música, cantando, y pensando mucho en pequeñas cosas.
 ---
 ### El blog
 
-Este es un blog personal. No se trata de un blog especializado en un tema, si no de diferentes pensamientos o ideas que el autor desea comunicar y abrir al espacio del debate.  
+Este es un blog personal. No se trata de un blog especializado en un tema, si no de diferentes pensamientos o ideas que deseo comunicar y abrir al espacio del debate.  
+
+El área central sobre el que se basan estas páginas es sobre la ingeniería del software, relacionado con mi actividad profesional como Engineering manager. Otras facetas completan mi blog, como recetas de cocina; inspiradas en otros cheffs, mi madre o libros que voy ojeando, y pensamientos filosóficos abiertos al debate. 
+
+Escribo por tanto para mantener un recopilatorio centralizado y para obtener retroalimentación de los temas, asi como un mostrador de mi actividad. 
 
 Manterner un solo lugar para escribir, simplifica el proceso.
 
@@ -23,43 +27,21 @@ Hay días que hace buenísimo para cocinar y publicar una receta, y otros para d
 
 Ya existen multitud de blogs especializados para cada cosa, bien mantenidos y consolidados.  Aquí encontrarás un espacio con opinión personal. Aquí seguirás una perspectiva peculiar. 
 
-Los temas centrales pasarán desde pensamientos, recursos o ideas sobre el arte de la dirección de equipos de ingeniería del software, como filosofía hasta temas de cocina y recetas.  
-
 No entraremos a debatir temas políticos por lo general, ya tenemos los periódicos de noticias. 
 
 Si crees que estas dentro del mismo círuclo de intereses, no lo dudes y apoya este blog subscribiéndote :) 
 
-#### Victor Alejo 
+#### Sobre Victor Alejo
 
 Si no tuviese que trabajar, tampoco tendria el suficiente tiempo para hacer todas las cosas que le gustaría. 
 
-Ya que tiene que trabajar, intenta disfrutar con ello :) . 
+Ya que tengo que trabajar, intento disfrutar con ello :) . Esta ambición me ha llevado a un continuo análisis sobre mi actividad laboral, trantando de encontrar el lugar y el rol que mas encaja conmigo. 
 
-Victor es un apasionado de las cosas sencillas;  La cocina es una de sus pasiones que practica casi a diario. \
-Otra de sus pasiones es la música. Se define como melómano que disfruta cantando.  \
-Completa su tiempo con el deporte. Se mantiene haciendo ejercicio en casa y completa su rutina corriendo por la montaña un par de veces por semana. \
-Victor esta recién estrenado como padre, y esta loquito por su hija.  
+Soy un apasionado de las cosas sencillas.  La cocina, la música se suelen unir a diario.  Me encanta cantar, reir, comer y beber. \
+Completo mi tiempo con el deporte. No me gustan mucho los gimnasios, y suelo tirarme al suelo de casa para activar el cuerpo. Completo mi rutina corriendo por la montaña un par de veces por semana si el tiempo me da de sí. \
+Estoy recién estrenado como padre, y estoy loquito por mi hija.  
 
-#### The engineering manager
-
-Tras una larga trayectoria en el mundo del desarrollo del software, Victor Alejo inició su camino en el rol de Engineering Manager.
-
-Este cambio supone un nuevo aprendizaje de ideas, sobre un paradigma distinto hasta entonces en su profesión. 
-
-En cada empresa, cada rol puede significar algo distinto. Encontrar tu sitio, realizando la tarea más útil y en la que mas encajas es sin duda algo complejo. 
-
-Hay muchísimos aspectos a descubrir como manager dentro del mundo del desarrollo del software. Los directores, jefes de equipo vienen con una mochila de prejuicios de los viejos tiempos que no . 
-
-Gracias a las nuevas corrientes, sobretodo de Google, en el caso de este rol; la dirección de equipos han ido adoptando un trabajo mas completo y mas complejo, y tambien mejor valorado.
-
-#### La cocina
-
-Hace un día buenísimo para estar en la cocina.  Cuando leas esto, puede que pienses que no hace tan bueno allá donde estes, pero si lo piensas bien, lo mismo si que hace un día buenísimo :D 
-
-A veces porque no queda mas remedio, o a veces porque nos apetece, cocinar es sin duda una actividad que nos reconecta con nosotros mismos como humanos. Como dice Michael Pollan, cocinar nos convirtió en lo que somos.
-
-Las recetas publicadas son basadas en ideas de varios chefs y libros de cocina y tambien descubirmientos de recetas tradicionales, ya sean de su madre como de cualquier cultura. \
-Entre tantas y tantas fuentes, de tantos chefs profesionales y aficionados, Víctor trata de seleccionar y compartir aquellas recetas que le han gustado por alguna peculiaridad especial. 
+Cuando leas esto, puede que pienses que no hace tan bueno allá donde estes, pero si lo piensas bien, lo mismo sí que hace un día buenísimo, se trata solo de actitud :D 
 
 **hace buenísimo** es un blog sencillo, con un claro enfoque hacia la sencillez y el optimismo.  Siempre hay algún sitio donde hace buenísimo, no importa que dia :) 
 
