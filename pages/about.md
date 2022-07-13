@@ -19,15 +19,13 @@ Este es un blog personal. No se trata de un blog especializado en un tema, si no
 
 El área central sobre el que se basan estas páginas es sobre la ingeniería del software, relacionado con mi actividad profesional como Engineering manager. Otras facetas completan mi blog, como recetas de cocina; inspiradas en otros cheffs, mi madre o libros que voy ojeando, y pensamientos filosóficos abiertos al debate. 
 
-Escribo por tanto para mantener un recopilatorio centralizado y para obtener retroalimentación de los temas, asi como un mostrador de mi actividad. 
+Escribo por tanto para mantener un recopilatorio centralizado de mis ideas y para obtener retroalimentación de los temas, asi como un mostrador de mi actividad. 
 
 Manterner un solo lugar para escribir, simplifica el proceso.
 
-Hay días que hace buenísimo para cocinar y publicar una receta, y otros para dedicar tiempo a la filosofía, y otros para compartir nuevos aprendizajes laborales por ejemplo. 
+Hay días que hace buenísimo para cocinar y publicar una receta, y otros para dedicar tiempo a la filosofía, y otros para compartir nuevos aprendizajes del trabajo. 
 
 Ya existen multitud de blogs especializados para cada cosa, bien mantenidos y consolidados.  Aquí encontrarás un espacio con opinión personal. Aquí seguirás una perspectiva peculiar. 
-
-No entraremos a debatir temas políticos por lo general, ya tenemos los periódicos de noticias. 
 
 Si crees que estas dentro del mismo círuclo de intereses, no lo dudes y apoya este blog subscribiéndote :) 
 
@@ -35,7 +33,7 @@ Si crees que estas dentro del mismo círuclo de intereses, no lo dudes y apoya e
 
 Si no tuviese que trabajar, tampoco tendria el suficiente tiempo para hacer todas las cosas que le gustaría. 
 
-Ya que tengo que trabajar, intento disfrutar con ello :) . Esta ambición me ha llevado a un continuo análisis sobre mi actividad laboral, trantando de encontrar el lugar y el rol que mas encaja conmigo. 
+Ya que tengo que trabajar, intento disfrutar con ello :) . Esta ambición me ha llevado a un continuo análisis sobre mi actividad laboral, trantando de encontrar el lugar y el rol que mas encaja conmigo. He encontrado mi hueco cerca de las personas y de la tecnología en el mundo del software.  
 
 Soy un apasionado de las cosas sencillas.  La cocina, la música se suelen unir a diario.  Me encanta cantar, reir, comer y beber. \
 Completo mi tiempo con el deporte. No me gustan mucho los gimnasios, y suelo tirarme al suelo de casa para activar el cuerpo. Completo mi rutina corriendo por la montaña un par de veces por semana si el tiempo me da de sí. \
