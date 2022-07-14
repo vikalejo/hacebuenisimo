@@ -1,0 +1,30 @@
+I"’<div>
+
+  <div>
+    
+    <div id="#misc"></div>
+    <p></p>
+
+    <h3 class="category-head">misc</h3>
+    <a name="misc"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/blog/the-most-recent-post-so-far">The most recent post so far</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/blog/a-simple-post">A simple blog post</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/blog/another-post">Another post</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/blog/welcome-to-jekyll">Welcome to Jekyll!</a></h4>
+    </article>
+    
+  </div>
+
+</div>
+:ET

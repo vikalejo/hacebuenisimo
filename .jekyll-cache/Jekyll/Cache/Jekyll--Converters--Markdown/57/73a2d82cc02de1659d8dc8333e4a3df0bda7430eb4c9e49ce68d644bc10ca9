@@ -1,0 +1,25 @@
+I"Z
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div id="#misc"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 class="category-head"&gt;misc&lt;/h3&gt;
+&lt;a name="misc"&gt;&lt;/a&gt;
+
+&lt;article class="archive-item"&gt;
+  &lt;h4&gt;&lt;a href="/blog/the-most-recent-post-so-far"&gt;The most recent post so far&lt;/a&gt;&lt;/h4&gt;
+&lt;/article&gt;
+
+&lt;article class="archive-item"&gt;
+  &lt;h4&gt;&lt;a href="/blog/a-simple-post"&gt;A simple blog post&lt;/a&gt;&lt;/h4&gt;
+&lt;/article&gt;
+
+&lt;article class="archive-item"&gt;
+  &lt;h4&gt;&lt;a href="/blog/another-post"&gt;Another post&lt;/a&gt;&lt;/h4&gt;
+&lt;/article&gt;
+
+&lt;article class="archive-item"&gt;
+  &lt;h4&gt;&lt;a href="/blog/welcome-to-jekyll"&gt;Welcome to Jekyll!&lt;/a&gt;&lt;/h4&gt;
+&lt;/article&gt;
+</code></pre></div></div>
+
+:ET
