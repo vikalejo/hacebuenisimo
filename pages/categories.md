@@ -8,15 +8,15 @@ section: archivo
 intro_paragraph:
 ---
 
-
-<h3>
+<section>
+<h4>
   <a href={{ site.baseurl }}"/archivo" >Archivo por fecha</a>
-</h3>
+</h4>
 
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
 <ul>
-    <h4> {{ category_name }} </h4>
+    <strong> {{ category_name }} </strong>
 </ul>
     {% for post in site.categories[category_name] %}
 

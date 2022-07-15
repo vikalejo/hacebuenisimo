@@ -7,20 +7,20 @@ permalink: /archivo
 section: archivo
 intro_paragraph:
 ---
-
-<h3>
+<section>
+<h4>
   <a href={{ site.baseurl }}"/categories" >Archivo por categorias </a>
-</h3>
+</h4>
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-  <h3>{% comment %}
+  {% comment %}
   {{ year.name }}
-  {% endcomment %}</h3>
+  {% endcomment %}
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
-<h4>{{ month.name }}</h4>
+<strong>{{ month.name }}</strong>
 <ul>
   {% for post in month.items %}
     <li>
