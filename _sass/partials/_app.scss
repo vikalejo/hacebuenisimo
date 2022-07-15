@@ -141,6 +141,7 @@ nav[aria-label="Adjacent Posts"] {
 
 // contact form
 html[data-current="contact"] main > form {
+  width: 500px;
   display: grid;
   label {
     display: none;
@@ -152,6 +153,7 @@ html[data-current="contact"] main > form {
     margin-bottom: 2rem;
   }
   button {
+    line-height: 0;
     width: 100%;
   }
 }
