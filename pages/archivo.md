@@ -8,6 +8,10 @@ section: archivo
 intro_paragraph:
 ---
 
+<h3>
+  <a href={{ site.baseurl }}"/categories" >Archivo por categorias </a>
+</h3>
+
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
   <h3>{% comment %}

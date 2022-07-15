@@ -20,9 +20,17 @@ layout: default
         <time datetime="{{ post.date }}">
           <small>
             <strong>{{ post.date | date_to_string }}</strong>
+            {% comment %}
             {% if author %}
               by {{ author.name }}
             {% endif %}
+
+            {% endcomment %}
+
+            {% if post.categories %}
+            <a href={{ site.baseurl }}"/categories">[{{ post.categories }}] </a>
+            {% endif %}
+
           </small>
         </time>
         {{ post.excerpt | strip_newlines | truncate: 180 }}
