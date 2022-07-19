@@ -88,6 +88,10 @@ a:active {
   color: $link-hover-color;
 }
 
+.icon-link {
+  border:none;
+}
+
 header > h1 {
   line-height: $base-line-height;
   font-weight: $base-font-weight;
