@@ -181,4 +181,20 @@ footer {
   > small {
     grid-column: main;
   }
+
+  > div {
+    text-align: left;
+  }
+}
+
+.footer-license {
+  img {
+    height: 30px;
+    text-decoration: none;
+  }
+
+  td {
+    padding: 10px 2px 2px 2px;
+    font-size: 12px;
+  }
 }
