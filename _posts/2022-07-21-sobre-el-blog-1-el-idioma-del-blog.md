@@ -2,7 +2,7 @@
 layout: post
 title: "Sobre el blog 1: El idioma del blog"
 meta_description: castellano blogging idioma del blog
-author: john_doe
+author: victor_alejo
 date: 2022-07-21 18:17:20
 intro_paragraph: >-
   
