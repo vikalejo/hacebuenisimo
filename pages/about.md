@@ -12,9 +12,9 @@ intro_paragraph: "**hacebuenisimo.com** es una colección de pensamientos,
 
 Este es un blog personal. No se trata de un blog especializado en un tema, si no de diferentes pensamientos o ideas sobre diversas áreas.
 
-Una de las áreas centrales sobre las que se basan estas páginas esta relacionado con la actividad profesional de un Engineering manager. No se aborda desde una perspectiva muy especializada, puesto que los temas y las reflexiones son perfectamente comparables a otras áreas profesionales. 
+Una de las áreas centrales sobre las que se basan estas páginas esta relacionado con la actividad profesional de un Engineering manager. No se aborda desde una perspectiva muy especializada, puesto que los temas y las reflexiones son perfectamente comparables a otras áreas profesionales.
 
-Otras facetas completan este blog como reflexiones o pensamientos filosóficos. Tambien podamos encontrar alguna recetas de cocina; inspiradas en otros cheffs, libros de cocina o la madre del autor.
+Otros temas que puedes encontrar son reflexiones o pensamientos filosóficos. Tambien alguna recetas de cocina; inspiradas en otros cheffs, libros de cocina o la madre del autor.
 Son temas troncales, pero no necesariamente únicos.  la intención es sin duda encontrar un espacio abierto a la reflexión.
 
 Este blog es un recopilatorio centralizado de ideas, con la intención de obtener retroalimentación de los temas, asi como un mostrador de las actividades que interesan al autor.
@@ -25,11 +25,11 @@ Si crees que estas dentro del mismo círuclo de intereses, no lo dudes y apoya e
 
 #### Sobre el autor
 
-Hay muchas personas detrás de **hacebuenísimo**, pero solo una escribe. 
+Hay muchas personas detrás de **hacebuenísimo**, pero solo una escribe.
 
-No hay una intención de dar nombres ni detalles que incentiven la autoría. 
+No hay una intención de dar nombres ni detalles que incentiven la autoría.
 
-hacebuenisimo es hacebuenismo :)  
+hacebuenisimo es hacebuenismo :)
 
 Detrás de estas páginas hay una persona que si no tuviese que trabajar, tampoco tendria el suficiente tiempo para hacer todas las cosas que le gustaría.
 
@@ -42,3 +42,6 @@ Aquí hay un aprendiz de por vida, recién estrenado como padre.
 **hacebuenísimo** es un blog con un enfoque hacia la sencillez y el optimismo. Las cosas pasan. No podemos cambiar lo que no esta en nuestras manos, tal cuál como el clima. Es cuestión de actitud. Además siempre hay algún sitio donde hace buenísimo, no importa que dia :)
 
 ¡Bienvenido! y ¡gracias por leer!
+
+
+{% include mailchimp.html %}
