@@ -26,6 +26,7 @@ layout: default
         <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.title}}</a>
       </li>
     {% endif %}
+
     {% if page.next.url %}
       <li>
         <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
@@ -33,3 +34,5 @@ layout: default
     {% endif %}
   </ul>
 </nav>
+
+{% include latest_post_list.html %}
