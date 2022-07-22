@@ -1,0 +1,12 @@
+<h4>Últimos Posts</h4>
+{% for post in site.posts limit:5 %}
+<ul>
+  <li>
+    <small><a href="{{ post.url }}">{{ post.title }}</a></small>
+
+  {% if post.categories %}
+    <a href={{ site.baseurl }}"/categories">[{{ post.categories }}] </a>
+  {% endif %}
+  </li>
+</ul>
+{% endfor %}
