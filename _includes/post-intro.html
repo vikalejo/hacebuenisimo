@@ -1,0 +1,5 @@
+{% if post.intro_paragraph and post.intro_paragraph != '' %}
+  <p class="intro">
+    {{ post.intro_paragraph | markdownify | remove: '<p>' | remove: '</p>' }}
+  </p>
+{% endif %}
